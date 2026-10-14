@@ -65,7 +65,7 @@ This infrastructure framework is engineered for plug-and-play declarative provis
 
 ```bash
 # 1. Clone the master security architecture assets onto your local workstation
-git clone https://github.com && cd isolated-cloud-landing-grid-secure-API/terraform
+git clone https://github.com/mkmd-systems1git/isolated-cloud-landing-grid-secure-API && cd isolated-cloud-landing-grid-secure-API/terraform
 
 # 2. Initialize the decoupled multi-module local provider state layers
 terraform init
